@@ -1,0 +1,3 @@
+model,a,b,c,log_loss,accuracy
+Model 1 (linear),-0.2231,0.0000,,0.6994,0.5000
+Model 2 (quadratic),-2.4806,0.0000,1.3805,0.1639,1.0000

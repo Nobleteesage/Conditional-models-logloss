@@ -1,0 +1,3 @@
+model,variance,nll_point_1,nll_point_2,nll_point_3,avg_log_loss_all_3,avg_log_loss_first_2,prediction_at_x3
+Model A (v = 0.25),0.2500,0.2258,0.2258,4.7258,1.7258,0.2258,4.0000
+Model B (v = 1),1.0000,0.9189,0.9189,2.0439,1.2939,0.9189,4.0000
